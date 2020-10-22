@@ -1,3 +1,6 @@
+/*
+* Use upto 3 documents
+*/
 import java.util.*;
 public class TFIDF
 {
