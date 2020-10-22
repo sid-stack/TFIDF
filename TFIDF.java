@@ -1,5 +1,6 @@
 /*
 * Use upto 3 documents
+* Author - Sid-stack
 */
 import java.util.*;
 public class TFIDF
